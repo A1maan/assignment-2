@@ -392,7 +392,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         const results = filteredProjects.filter(project => 
             project.title.toLowerCase().includes(searchTerm) ||
-            project.description.toLowerCase().includes(searchTerm) ||
+            // project.description.toLowerCase().includes(searchTerm) ||
             project.tags.some(tag => tag.toLowerCase().includes(searchTerm))
         );
         
