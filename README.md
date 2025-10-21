@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# assignment-2
-=======
 # Interactive Portfolio Website - Assignment 2
 
 Hello there! 👋 Welcome to the enhanced version of my portfolio website, built for SWE 363 Assignment 2 at KFUPM. This iteration builds upon Assignment 1 by adding powerful interactive features, dynamic content management, and improved user experience.
