@@ -176,11 +176,6 @@ Every AI interaction is documented in `docs/ai-usage-report.md` with:
 
 🚀 **[View Live Site](https://almaan-portfolio.netlify.app/)**
 
-Or deploy it yourself:
-- **GitHub Pages**: Settings → Pages → Deploy from main branch
-- **Netlify**: Drop folder or connect GitHub repo
-- **Vercel**: Import project and deploy instantly 
-
 ## 📚 What I Learned (Assignment 2)
 
 This assignment took my web dev skills to the next level:
