@@ -174,7 +174,7 @@ Every AI interaction is documented in `docs/ai-usage-report.md` with:
 
 ## 🌐 Live Demo
 
-🚀 **[View Live Site](https://a1maan.github.io/assignment-2/)** *(Coming Soon)*
+🚀 **[View Live Site](https://almaan-portfolio.netlify.app/)**
 
 Or deploy it yourself:
 - **GitHub Pages**: Settings → Pages → Deploy from main branch
