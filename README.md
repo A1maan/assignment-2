@@ -200,12 +200,5 @@ This assignment took my web dev skills to the next level:
 - ✅ **Accessibility** - WCAG compliance and keyboard navigation
 - ✅ **Documentation** - Comprehensive docs and code comments
 - ✅ **AI-Assisted Development** - Leveraging AI while maintaining understanding
-
-### Key Insights
-- **Vanilla JS is powerful** - You don't always need frameworks
-- **User feedback is crucial** - Always show what's happening
-- **Error handling matters** - Plan for failure scenarios
-- **AI tools accelerate learning** - When used responsibly
-- **State management is fundamental** - Even in simple apps
-
+  
 ---
