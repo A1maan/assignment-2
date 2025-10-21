@@ -187,7 +187,7 @@ This assignment took my web dev skills to the next level:
 - ✅ **Data Structures** - Efficient filtering and searching algorithms
 - ✅ **LocalStorage API** - Client-side data persistence
 
-### UX/UI Skills
+### UI/UX Skills
 - ✅ **Loading States** - Professional feedback during async operations
 - ✅ **Error Handling** - User-friendly error messages and fallbacks
 - ✅ **Form Validation** - Real-time feedback for better UX
